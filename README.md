@@ -1,13 +1,13 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Flutter, Dart
-- 🌱 I’m currently learning Flutter, Dart
+- 🔭 I’m currently working on MERN
+- 🌱 I’m currently learning Full stack development
 - 👯 I’m looking to collaborate on Flutter Projects
 - 🤔 I’m looking for help with Flutter
 - 💬 Ask me about ...
 - 📫 How to reach me: jatindersingh382001@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
-- i know HTML,CSS,PHP
+- i know HTML,CSS,javascript,react,nodejs,mongodb
 <!--
 **JatinderSingh38/jatinderSingh38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
