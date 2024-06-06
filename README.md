@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on MERN
-- 🌱 I’m currently learning Full stack development
-- 👯 I’m looking to collaborate on Flutter Projects
-- 🤔 I’m looking for help with Flutter
+- 🌱 I’m currently learning ReactNative 
+- 👯 I’m looking to collaborate on React Projects
+- 🤔 I’m looking for help with ReactNative
 - 💬 Ask me about ...
 - 📫 How to reach me: jatindersingh382001@gmail.com
 - 😄 Pronouns: He/Him
